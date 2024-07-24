@@ -14,7 +14,7 @@ A classic Tic Tac Toe game where two players can play against each other. The ga
 - Responsive design
 
 ### Screenshot
-![Tic Tac Toe](assets/images/TicTacToe.png)
+![Tic Tac Toe](assets/images/TicTacToe.jpg)
 
 ### Technologies Used
 - HTML
